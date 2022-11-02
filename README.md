@@ -1,6 +1,11 @@
 
+<p align="center">
+  <img width="1167.2" height="290.8" src="https://github.com/Selis9/Selis9/blob/main/Banner.png">
+</p>
 
-### Hi there 👋
+### Hello there! 👋
+
+I am a fullstack dev who enjoys creating a compelling UX/UI!
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Selis9&theme=tokyonight&border_radius=1)](https://git.io/streak-stats)
