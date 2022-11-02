@@ -1,12 +1,13 @@
 
 <p align="center">
-  <img width="1167.2" height="290.8" src="https://github.com/Selis9/Selis9/blob/main/Banner.png">
+  <img width="867.2" height="190.8" src="https://github.com/Selis9/Selis9/blob/main/Banner.png">
 </p>
 
 ### Hello there! 👋
 
 I am a fullstack dev who enjoys creating a compelling UX/UI!
 
+- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Selis9&theme=tokyonight&border_radius=1)](https://git.io/streak-stats)
 
